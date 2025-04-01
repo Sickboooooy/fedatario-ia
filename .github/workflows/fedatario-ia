@@ -1,0 +1,11 @@
+fedatario-ia/
+├── backend/                # Código en Flask
+│   └── app.py
+├── frontend/               # Código en React o HTML simple
+├── static/                 # Logos, fuentes, CSS
+├── templates/              # HTML de verificación, etc.
+├── utils/                  # Generador de PDF, hash, QR
+├── .replit                 # Config Replit
+├── requirements.txt        # Librerías necesarias
+├── README.md               # Explicación del proyecto
+└── terraform/              # Infraestructura Cloud (opcional)
